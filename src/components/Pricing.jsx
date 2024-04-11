@@ -73,7 +73,7 @@ export const Pricing = () => {
                       $0
                     </div>
                     <div className="text-gray-500">
-                      {isMonthly ? "/ 30 days free!" : "/ year"}
+                      {isMonthly ? "/ 30 days free!" : "/ 30 day trial"}
                     </div>
                   </div>
 
