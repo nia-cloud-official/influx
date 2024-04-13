@@ -7,7 +7,7 @@ const navbarLinks = [
   { label: "Home", href: "#home", ariaLabel: "Home" },
   { label: "Features", href: "#features", ariaLabel: "Features" },
   { label: "Pricing", href: "#pricing", ariaLabel: "Pricing" },
-  { label: "Feedback", href: "#feedback", ariaLabel: "Feedback" },
+  { label: "Contribute", href: "http://influx-agent.atwebpages.com/", ariaLabel: "Contribute" },
   { label: "Use Case", href: "#UseCases", ariaLabel: "UseCases" },
 ];
 
